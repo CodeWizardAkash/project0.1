@@ -1,0 +1,45 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card{            
+    margin: 40px;
+    padding: 8px;
+    box-shadow:  1px 1px 5px 1px #888;
+    width: 23vw;
+    height: 80vh;
+    border-radius: 7px;
+}
+.asdf{
+    margin: 0;
+    padding: 0;
+}
+div img{
+    width: 23vw;
+    border-radius: 7px;
+}
+.asdf ul{
+    display: flex;       
+    padding-inline-start: 0; 
+}
+.asdf ul li{
+    color: gray;
+    list-style: none;    
+    /*padding: 3px;*/
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 3px;
+    margin: 5px;
+}
+div button{            
+    color: rgb(12, 12, 236);
+    background-color: rgb(197, 240, 254);
+    border-radius: 10px;
+    border-style: none;
+    padding: 7px;
+    margin: 0% 38%;
+}
+.box{
+    padding: 10px;
+}
